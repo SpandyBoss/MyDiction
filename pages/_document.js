@@ -3,9 +3,9 @@ import Navbar from '@/components/navbar'
 export default function Document() {
   return (
     <Html lang="en">
-        <Head/>
-
+        
         <body>
+          
         <Navbar/>
         <Main />
         <NextScript />
